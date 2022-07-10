@@ -1,0 +1,19 @@
+{
+	"pests": [
+		{
+			"name": "Cockroach",
+			"phone": "☎️+233 240560411",
+			"imageurl": "images/cockroach1.webp"
+		},
+		{
+			"name": "Bed-Bugs",
+			"phone": "☎️+233 240560411",
+			"imageurl": "images/bedbugs1.webp"
+		},
+		{
+			"name": "Rodents",
+			"phone": "☎️+233 240560411",
+			"imageurl": "images/pestRodents1.webp"
+		}
+    ]
+}        
